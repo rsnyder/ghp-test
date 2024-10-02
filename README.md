@@ -17,3 +17,10 @@ Tellus nullam lobortis aliquam gravida facilisi cras. Ex vulputate vulputate sem
 Neque convallis tempor suscipit arcu parturient facilisis gravida eros. Sodales consectetur lorem consequat velit primis mus fringilla. Nec sem tellus consectetur vestibulum augue ad curabitur. Lacinia porta primis tincidunt habitasse netus. Nostra sed nisi tellus dictumst proin turpis enim. Mi montes montes velit sapien lacus ornare penatibus faucibus. Orci nostra blandit ipsum iaculis consectetur sem platea pellentesque.
 
 Maximus habitant dis, integer semper vivamus platea. Auctor curabitur tortor est integer magnis ultricies suscipit libero. Bibendum lectus facilisi, fusce lobortis scelerisque porta eget. Condimentum bibendum cubilia leo fames natoque lobortis volutpat fermentum. Purus duis platea morbi blandit netus ullamcorper semper sem. Ligula enim lectus felis proin lectus vulputate gravida dui.
+
+## Table
+
+| Value | Description |
+| -------- | ---------------------------------------- |
+| *contain*  (_default_)  | The image keeps its aspect ratio, but is resized to fit within the available space |
+| *cover*  | The image keeps its aspect ratio and fills the the available space. The image will be clipped to fit  |
