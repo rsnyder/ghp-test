@@ -18,6 +18,24 @@ Neque convallis tempor suscipit arcu parturient facilisis gravida eros. Sodales 
 
 Maximus habitant dis, integer semper vivamus platea. Auctor curabitur tortor est integer magnis ultricies suscipit libero. Bibendum lectus facilisi, fusce lobortis scelerisque porta eget. Condimentum bibendum cubilia leo fames natoque lobortis volutpat fermentum. Purus duis platea morbi blandit netus ullamcorper semper sem. Ligula enim lectus felis proin lectus vulputate gravida dui.
 
+`inline code` Lorem ipsum odor amet, consectetuer adipiscing elit. Primis ipsum bibendum eu tellus litora nullam fermentum eleifend morbi. Aliquet maximus risus praesent mus convallis risus dignissim nisl. Congue dis congue sodales mus blandit enim dui vitae. Urna consequat dictumst tincidunt sollicitudin semper tempus vestibulum. Facilisi nec consequat platea dui cubilia montes eleifend ridiculus massa. Ut condimentum a laoreet suspendisse; diam semper penatibus. Praesent ipsum dis parturient auctor cras venenatis per. Penatibus fringilla libero finibus class conubia.
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Primis ipsum bibendum eu tellus litora nullam fermentum eleifend morbi. Aliquet maximus risus praesent mus convallis risus dignissim nisl. Congue dis congue sodales mus blandit enim dui vitae. Urna consequat dictumst tincidunt sollicitudin semper tempus vestibulum. Facilisi nec consequat platea dui cubilia montes eleifend ridiculus massa. Ut condimentum a laoreet suspendisse; diam semper penatibus. Praesent ipsum dis parturient auctor cras venenatis per. Penatibus fringilla libero finibus class conubia. `inline code`
+
+```
+standalone code block
+```
+
+```
+code block adjacent to paragraph at top
+```
+Lorem ipsum odor amet, consectetuer adipiscing elit. Primis ipsum bibendum eu tellus litora nullam fermentum eleifend morbi. Aliquet maximus risus praesent mus convallis risus dignissim nisl. Congue dis congue sodales mus blandit enim dui vitae. Urna consequat dictumst tincidunt sollicitudin semper tempus vestibulum. Facilisi nec consequat platea dui cubilia montes eleifend ridiculus massa. Ut condimentum a laoreet suspendisse; diam semper penatibus. Praesent ipsum dis parturient auctor cras venenatis per. Penatibus fringilla libero finibus class conubia. `inline code`
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Primis ipsum bibendum eu tellus litora nullam fermentum eleifend morbi. Aliquet maximus risus praesent mus convallis risus dignissim nisl. Congue dis congue sodales mus blandit enim dui vitae. Urna consequat dictumst tincidunt sollicitudin semper tempus vestibulum. Facilisi nec consequat platea dui cubilia montes eleifend ridiculus massa. Ut condimentum a laoreet suspendisse; diam semper penatibus. Praesent ipsum dis parturient auctor cras venenatis per. Penatibus fringilla libero finibus class conubia. `inline code`
+```
+code block adjacent to paragraph at bottom
+```
+
 ## Table
 
 | Value | Description |
